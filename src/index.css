@@ -94,3 +94,26 @@
   padding: 7px 20px;
   color: #ffffff;
 }
+
+@media screen and (max-width: 768px){
+
+  .contenedor-estados{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+    
+  }
+  .contenedor-input{
+    width: 100%;
+    
+
+  }
+  .contenedor-tarea{
+    min-height: 300px;
+  }
+
+
+}
+  
